@@ -1,1 +1,1 @@
-TYPING-GAME
+Typing-Game
